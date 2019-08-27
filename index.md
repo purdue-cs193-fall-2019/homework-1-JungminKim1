@@ -1,7 +1,7 @@
 # Jungmin's First CS193 Homework
 - There is no midterms or finals
 - I can get help in PSO class
-- It gives out useful and inportant informations for CS students
+- It gives out useful and important informations for CS students
 
 ## Welcome to GitHub Pages
 
