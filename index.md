@@ -1,3 +1,7 @@
+# Jungmin's First CS193 Homework
+- There is no midterms or finals
+- I can get help in PSO class
+- It gives out useful and inportant informations for CS students
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
